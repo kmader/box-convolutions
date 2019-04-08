@@ -1,4 +1,4 @@
-Box Convolution Layer for ConvNets
+Box Convolution Layer for ConvNets [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kmader/box-convolutions/master)
 ==================================
 
 <p align="center">
